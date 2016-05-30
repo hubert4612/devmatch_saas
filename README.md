@@ -4,6 +4,6 @@ To do list:
 
 -upgrade user profile editing
 
--add images(paperclip)
+-add images(paperclip gem)
 
 -improve look of all sections
