@@ -7,3 +7,6 @@ To do list:
 -add images(paperclip gem)
 
 -improve look of all sections
+
+
+Written in Ruby on Rails, HTML, Bootstrap, jQuery, Heroku
