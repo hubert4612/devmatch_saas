@@ -9,4 +9,5 @@ To do list:
 -improve look of all sections
 
 
+
 Written in Ruby on Rails, HTML, Bootstrap, jQuery, Heroku
